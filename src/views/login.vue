@@ -65,7 +65,7 @@
     </el-form>
     <!--  底部  -->
     <div class="el-login-footer">
-      <span>Copyright © 2018-2023 ruoyi.vip All Rights Reserved.</span>
+      <span>Copyright © 2016-2025 土八鲜 保留所有权利</span>
     </div>
   </div>
 </template>
